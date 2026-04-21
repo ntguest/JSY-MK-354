@@ -17,7 +17,7 @@ modbus_controller:
   - id: modbus_device
     address: 1
     modbus_id: modbus1
-    update_interval: 1s
+    update_interval: 6s
     setup_priority: -10
 
 select:
